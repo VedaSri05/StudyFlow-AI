@@ -16,6 +16,12 @@ The app automatically generates a study plan, distributes topics across availabl
 
 ---
 
+## Application Screenshots
+
+The repository includes screenshots demonstrating the complete StudyFlow AI workflow, including plan creation, subject and topic management, study schedule generation, dashboard progress tracking, and validation scenarios.
+
+---
+
 ## Features
 
 ### Study Plan Creation
